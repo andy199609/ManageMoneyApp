@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-2.5.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.code-troopers.betterpickers/library/2.5.4/765232170fad5b8c2a7804ff7ba03a5a5b134d17/library-2.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

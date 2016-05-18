@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/CTFung/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_57e1f396f3c2989bd650e2710f03385839d1252b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.5.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.8.5.9_d914ac28d0cd4031f9a84804c427799c5363416e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="abc532e8d0cbab9261bdd23dfa2217e82365ac05">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15e34a61ba22ecbf224e0954bb0eac403c4592d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d00408e42d352b986afa52e9605c7ab71508eb0c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.balysv-material-ripple-1.0.2_2914db7f68892e30f333758716b46de0d0bd3100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_33a54f807222bf5f2800670bfd587112d8259742/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/2.5.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="afb3a93096760f3ed76bb818fe3e2f98abf9ec05">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.code-troopers.betterpickers-library-2.5.4_0e86a58d43f85170e80b847739afd84b4d22c8eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.github.markushi/android-ui/1.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.markushi-android-ui-1.2_42416a94017a58653f6fbccd8e013dd37ec5978c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_75caeb7dcf2c6288470e0e461cb9cd7e0175290c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_1d5971e9ef8b515d009d4e5918d3ee0ed73866ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/it.neokree/MaterialTabs/0.11/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef6aa7ea0bb2d6adf10965d0a5bb8e353517bff">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/it.neokree-MaterialTabs-0.11_5c438b94257fb590e83916e8bffd8743918d4ce2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_b27c7799e7c57ccd5d75a0b63d8a5f28eedd07f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.7_8d7fc1c95743d419e0dcc64c712a8f2952db26b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_61651cb9c9e0218392a2b56625b52efc415378f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b504b889b698920e8fa5bd0703f40ab6772b9391/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.github.anasanasanas123/MaterialDesignLibrary/1.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8bd82600c7db01c5ab00244bff70c1d8337689b">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.anasanasanas123-MaterialDesignLibrary-1.7_5780dd6a66b6d947de0b3608ff8ea6a1406ae327/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.5_68c92b35e51a253ab5cafc9e086d8888a39eaad1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4cbd441ba00d33f942a06462982728b610baa001">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64059603cdeb1d5fc6bfbd7bb46d7cb22d58a549/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_f3c7a7437b71ed3bb650035228bce5183236dc6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wdullaer-materialdatetimepicker-2.3.0_75f5495b9d79026db61a09ba97154f61f7aa0ba0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.github.d-max/spots-dialog/0.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.d-max-spots-dialog-0.4_ddfcbaece880cdaca61a9a09909e5ddd60fcdf4a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_0b48a784af07a666b63bd343ef2d54fd2f8a69ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2cb8e40863a22a1c2eb1510de1cb3f902af07301/classes.dex" />
+    </item>
+
+</items>
