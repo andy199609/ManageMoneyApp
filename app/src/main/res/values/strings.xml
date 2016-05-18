@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExchangeRateProject</string>
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="settings">SETTINGS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="currency_list">
+        <item>港幣 HKD</item>
+        <item>美金 USD</item>
+        <item>人民幣 CNY</item>
+        <item>台幣 NTD</item>
+        <item>日圓 JPY</item>
+        <item>韓元 KRW</item>
+        <item>歐元 EUR</item>
+        <item>泰幣 THB</item>
+        <item>英鎊 GBP</item>
+        <item>加拿大幣 CAD</item>
+    </string-array>
+</resources>

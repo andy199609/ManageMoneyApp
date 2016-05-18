@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.example.ctfung.exchangerateproject"
+        minSdkVersion 21
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:cardview-v7:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'it.neokree:MaterialTabs:0.11'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.github.d-max:spots-dialog:0.4@aar'
+    compile 'com.pnikosis:materialish-progress:1.7'
+    compile 'com.balysv:material-ripple:1.0.2'
+    compile 'com.github.anasanasanas123:MaterialDesignLibrary:1.7'
+    compile 'com.afollestad.material-dialogs:core:0.8.5.9'
+    compile 'com.code-troopers.betterpickers:library:2.5.4'
+    compile 'com.wdullaer:materialdatetimepicker:2.3.0'
+}
