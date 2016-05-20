@@ -23,7 +23,7 @@ public class LocalDB extends SQLiteOpenHelper {
 
     public static void initialize() {
         String [] exchangeRate = {"currencyUnit TEXT","targetUnit TEXT","targetRate TEXT","date DATE"};
-        String [] moneyRecord = {"type TEXT","cash TEXT","currencyUnit TEXT","time TEXT","note TEXT","isIncome TEXT"};
+        String [] moneyRecord = {"mid INTEGER PRIMARY KEY, type TEXT","cash TEXT","currencyUnit TEXT","time TEXT","note TEXT","isIncome TEXT","iconId TEXT"};
         String [] settingRecord = {"language TEXT","currency TEXT","income TEXT","pay TEXT"};
         createTable("ExchangeRate",exchangeRate);
         createTable("MoneyRecord",moneyRecord);

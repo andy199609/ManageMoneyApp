@@ -75,9 +75,9 @@ public class ExchangeRateConvertor {
             String currencyUnit = LocalDB.getDataBySQL("SELECT currencyUnit FROM ExchangeRate", 0, "currencyUnit"); //the currencyUnit which user default to choose
             double exchangeRate = Double.parseDouble(LocalDB.getDataBySQL("SELECT targetRate FROM ExchangeRate WHERE currencyUnit = '" + currencyUnit + "' AND targetUnit = '" + targetUnit + "'", 0, "targetRate"));
             int convertMoney = (int) (money / exchangeRate);
-            return currencyUnit+" "+convertMoney;
+            return convertMoney+"";
         }catch (Exception e){
-            return targetUnit+" "+money;
+            return money+"";
         }
     }
 

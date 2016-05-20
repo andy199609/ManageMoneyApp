@@ -19,7 +19,7 @@
         jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="abc532e8d0cbab9261bdd23dfa2217e82365ac05">
+        sha1="fa92f1caf05d0340b73e2e7547b8f79e715050ed">
         <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15e34a61ba22ecbf224e0954bb0eac403c4592d4/classes.dex" />
     </item>
     <item
@@ -107,6 +107,13 @@
         <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b504b889b698920e8fa5bd0703f40ab6772b9391/classes.dex" />
     </item>
     <item
+        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="184f86117c6463267c1f0deba84d4853cb165c40">
+        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.orhanobut-dialogplus-1.11_99788371ec7f56052a48aac16b1edf1a3ccc23ae/classes.dex" />
+    </item>
+    <item
         jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.github.anasanasanas123/MaterialDesignLibrary/1.7/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
@@ -124,7 +131,7 @@
         jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4cbd441ba00d33f942a06462982728b610baa001">
+        sha1="05c18ed4c7b302346db7afe9a7491006f104ea34">
         <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64059603cdeb1d5fc6bfbd7bb46d7cb22d58a549/classes.dex" />
     </item>
     <item
@@ -140,13 +147,6 @@
         revision="23.0.2"
         sha1="a95fd025efad7b05be3d29737bec37652e0fdb9e">
         <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wdullaer-materialdatetimepicker-2.3.0_75f5495b9d79026db61a09ba97154f61f7aa0ba0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.github.d-max/spots-dialog/0.4/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
-        <dex dex="/Users/CTFung/ManageMoneyApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.d-max-spots-dialog-0.4_ddfcbaece880cdaca61a9a09909e5ddd60fcdf4a/classes.dex" />
     </item>
     <item
         jar="/Users/CTFung/ManageMoneyApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"

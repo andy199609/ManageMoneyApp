@@ -3,7 +3,7 @@
     xmlns:card_view="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
     <android.support.v7.widget.CardView
         android:id="@+id/summaryCard"
         android:layout_width="match_parent"
@@ -36,7 +36,7 @@
                     android:orientation="horizontal"
                     android:weightSum="10">
                     <TextView
-                        android:id="@+id/tvName"
+                        android:id="@+id/tvTitle"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="20dp"
@@ -55,10 +55,17 @@
                         android:layout_height="wrap_content" />
                 </LinearLayout>
                 <TextView
-                    android:id="@+id/tvConvert"
+                    android:id="@+id/tvDate"
                     android:textSize="14dp"
                     android:textColor="#FF6F42"
                     android:text="2016-05-18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/tvNote"
+                    android:textSize="14dp"
+                    android:textColor="#2E9AFE"
+                    android:text="M記餐"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
             </LinearLayout>

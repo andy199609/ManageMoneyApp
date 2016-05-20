@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/swipeRefresh"
+            >
+            <com.example.ctfung.exchangerateproject.common.ScrollViewExt
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/scrollView"
+                android:background="#ededed">
+                <RelativeLayout
+                    android:id="@+id/relative"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/myEventList"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                    <com.pnikosis.materialishprogress.ProgressWheel
+                        xmlns:wheel="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/loading"
+                        android:layout_alignParentBottom="true"
+                        android:visibility="gone"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        wheel:matProg_barColor="#5588FF"
+                        wheel:matProg_progressIndeterminate="true" />
+                    <com.pnikosis.materialishprogress.ProgressWheel
+                        xmlns:wheel="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/beginLoading"
+                        android:layout_alignParentTop="true"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        wheel:matProg_barColor="#5588FF"
+                        wheel:matProg_progressIndeterminate="true" />
+                </RelativeLayout>
+            </com.example.ctfung.exchangerateproject.common.ScrollViewExt>>
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

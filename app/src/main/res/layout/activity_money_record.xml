@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.ctfung.exchangerateproject.MoneyRecordActivity">
+    tools:context=".Activity.MoneyRecordActivity">
     <android.support.v7.widget.Toolbar
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
@@ -15,8 +15,26 @@
         android:layout_height="wrap_content">
         <Spinner
             android:id="@+id/spinner_nav"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/btnSelect"
+            android:paddingRight="15dp"
+            android:layout_centerVertical="true"
+            android:text="搜尋日子範圍"
+            android:layout_alignParentRight="true"
+            android:textColor="#FFFFFF"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </RelativeLayout>
     </android.support.v7.widget.Toolbar>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_below="@id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/root_frame" >
+
+    </FrameLayout>
 </RelativeLayout>
